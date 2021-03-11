@@ -1062,7 +1062,7 @@ while is_pc_on is True:
                                           "is_oobe_logged_in")
                                 else:
                                     invalid_input()
-                    elif name == "modify" & password == "boot":
+                    elif name == "modify" and password == "boot":
                         if is_debug_options_on is True:
                             if is_os_dual_booted is True:
                                 print("===Modify Dual Boot Start===")

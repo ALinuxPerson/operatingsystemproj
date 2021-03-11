@@ -53,7 +53,7 @@ is_debug_options_on = True
 user_currently_logged_on = False
 is_os_dual_booted = True
 how_much_os_installed = 2
-os_priority = osys_20_boot_name
+os_priority = osys_1_boot_name
 
 host = "Generic PC"
 kernel = "OSys New Kernel"
